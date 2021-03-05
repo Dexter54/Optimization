@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas
 
 from math import exp, expm1,sin,atan,radians
 
