@@ -7,6 +7,8 @@ import matplotlib.tri as tri
 from matplotlib.patches import Polygon
 from matplotlib import animation
 
+
+
 class nokta:
       x = 0.0
       y = 0.0
